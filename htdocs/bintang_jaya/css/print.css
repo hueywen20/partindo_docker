@@ -1,0 +1,40 @@
+/* styles.css
+   styles for all pages */
+
+body, table, td, p, textarea, div, span {
+	color: #333;
+	font-family: Arial, Verdana;
+	font-size: 14px;
+	}
+img{
+	vertical-align: middle;
+}
+
+ul{
+	margin: 0;
+	padding-left: 14px;
+}
+
+.detailitem{
+	color: #333;
+	font-family: Arial, Verdana;
+	font-size: 12px;
+	padding: 3px;
+}
+
+.detailitem td{
+	color: #333;
+	font-family: Arial, Verdana;
+	font-size: 12px;
+}
+
+.reporttitle{
+	font-size: 16px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.underline{
+	background-image: url(../img/underline.gif);
+	line-height: 18px;
+}

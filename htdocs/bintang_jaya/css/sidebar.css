@@ -1,0 +1,50 @@
+body{
+	background-color: #EFEFEF;
+}
+table{
+	border-collapse:collapse;
+}
+.abs{
+	position: fixed;
+	z-index: 9999;
+}
+.hid{
+	display: none;
+}
+.tdmenu{
+	cursor: pointer;
+	padding: 3px 8px;
+	border-color: #000;
+	font: bold 13px "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, sans-serif;
+}
+
+div{
+	font: bold 16px "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, sans-serif;
+}
+
+.logoutlink:active {
+	text-decoration: none;
+	color: #FFFFFF;
+	font-weight: bold;
+	background-color: #5555FF;
+	padding: 3px;
+	}
+.logoutlink:visited {
+	text-decoration: none;
+	color: #FFFFFF;
+	font-weight: bold;
+	background-color: #5555FF;
+	padding: 3px;
+	}
+.logoutlink:link {
+	text-decoration: none;
+	color: #FFFFFF;
+	font-weight: bold;
+	background-color: #5555FF;
+	padding: 3px;
+	}
+.logoutlink:hover {
+	text-decoration: none;
+	color: #C0FF00;
+	font-weight: bold;
+	}

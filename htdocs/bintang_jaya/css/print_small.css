@@ -1,0 +1,18 @@
+/* styles.css
+   styles for all pages */
+
+body, table, td, p, textarea, div, span {
+	color: #333;
+	font-family: Arial, Verdana;
+	font-size: 10px;
+	line-height: 12px;
+	}
+img{
+	vertical-align: middle;
+}
+
+.reporttitle{
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: underline;
+}
